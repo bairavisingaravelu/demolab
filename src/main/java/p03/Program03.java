@@ -3,13 +3,13 @@ package p03;
 import java.util.HashMap;
 
 /**
- * Created by BSIN on 9/27/2016. 
+ * Created by BSIN on 9/27/2016.
  */
 public class Program03 extends RuntimeException{
-    public static void main(String [] args){
-      Program03 p3=new Program03();
-        p3.calulate("hello");
-    }
+//    public static void main(String [] args){
+//      Program03 p3=new Program03();
+//        p3.calulate("hello");
+////    }
     public void calulate(String value) {
         int i = 1;
         String k = null;
