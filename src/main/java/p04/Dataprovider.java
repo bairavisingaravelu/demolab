@@ -18,17 +18,5 @@ public class Dataprovider {
         for (Person person:persons) {
             System.out.println("Name: "+person.getName()+" Age: "+person.getAge());
         }
-//        for(int i=0;i<persons.size();i++)
-//        {
-//            for(int j=1;j<i;j++)
-//            {
-//                if(persons.get(i).getAge()==persons.get(j).getAge())
-//                {
-//                   // Collections.sort(persons,new Namecomparator());
-//                    return persons.get(i).getName().compareTo(persons.get(j).getName());
-//                }
-//            }
-//        }
-
     }
 }
