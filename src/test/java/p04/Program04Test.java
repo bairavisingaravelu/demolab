@@ -11,6 +11,4 @@ public class Program04Test {
         Program04 program04=new Program04();
         program04.p04();
     }
-
-
 }

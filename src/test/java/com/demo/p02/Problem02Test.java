@@ -8,7 +8,8 @@ import org.junit.Test;
 public class Problem02Test{
 @Test
     public void p2test(){
-
+        Problem02 p2=new Problem02();
+        p2.p2();
 }
 
 }
